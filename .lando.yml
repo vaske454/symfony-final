@@ -1,4 +1,4 @@
 name: symfony-final
 recipe: symfony
 config:
-  webroot: .
+  webroot: public
